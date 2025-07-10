@@ -8,7 +8,7 @@ int main()
 
 	float area = radius * radius * Pi; 
 
-	float girth = radius * 2* Pi;
+	float girth = radius * 2 * Pi;
 
 	printf("원의 넓이:%.2f", area);
 	printf("원의 둘레:%.2f", girth);
