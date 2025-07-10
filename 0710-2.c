@@ -10,8 +10,8 @@ int main()
 
 	float girth = radius * 2*Pi;
 
-	printf("¿øÀÇ ³ĞÀÌ:%.2f", area);
-	printf("¿øÀÇ µÑ·¹:%.2f", girth);
+	printf("Å¼Å™Å”Ã‡ Å‚ÄÅ”Äš:%.2f", area);
+	printf("Å¼Å™Å”Ã‡ Ä¾ÅƒË‡Å¡:%.2f", girth);
 
 	return 0;
 }
